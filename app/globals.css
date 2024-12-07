@@ -25,3 +25,36 @@ body {
     text-wrap: balance;
   }
 }
+.discount-tag {
+  width: Hug (55px) px;
+  height: Hug (26px) px;
+  top: 12px;
+  left: 12px;
+  padding: 4px 12px 4px 12px;
+  gap: 10px;
+  border-radius: 4px 0px 0px 0px;
+  opacity: 0px;
+}
+.product-bg-height{
+  width: 190px;
+height: 180px;
+top: 35px;
+left: 40px;
+padding: 14px 9px 14px 9px;
+gap: 0px;
+opacity: 0px;
+}
+.category-shadow{
+  box-shadow: 0px 1px 13px 0px #0000000D;
+}
+
+.hue-rotate-custom {
+  filter: hue-rotate(5deg); /* Adjust to match #FAFAFA */
+}
+.hue-rotate-custom-inverse {
+  filter: hue-rotate(-5deg); /* Adjust to match #FAFAFA */
+}
+.cart-blur{
+  box-shadow: 0px 1px 13px 0px #0000000D;
+
+}
